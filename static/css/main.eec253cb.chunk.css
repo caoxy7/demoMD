@@ -1,2 +1,0 @@
-html{width:100%;height:100%;font-size:12px}.main{position:absolute;width:75%;height:90%;margin:auto;top:0;right:0;bottom:0;left:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:4% auto;grid-template-areas:"toolbar toolbar" "editor-windows preview-windows"}.menu{grid-area:toolbar;background-color:#61dafb;overflow:visible}.editor{grid-area:editor-windows;overflow:hidden}.preview{grid-area:preview-windows;overflow:auto}
-/*# sourceMappingURL=main.eec253cb.chunk.css.map */
