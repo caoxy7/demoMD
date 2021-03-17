@@ -1,7 +1,7 @@
 {
   "name": "mkdown",
   "version": "0.1.0",
-  "homepage": "https://caoxy7.com.io/demoMD",
+  "homepage": "https://caoxy7.github.io/tech-training-camp-frontend",
   "private": true,
   "dependencies": {
     "@monaco-editor/react": "^4.0.11",
@@ -13,6 +13,7 @@
     "lodash": "^4.17.15",
     "markdown-it": "^10.0.0",
     "markdown-it-table-of-contents": "^0.4.4",
+    "marked": "^2.0.1",
     "mathjax": "3",
     "mermaid": "^8.5.0",
     "monaco-editor": "^0.20.0",
