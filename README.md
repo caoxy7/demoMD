@@ -1,4 +1,4 @@
-# 基于React和markdown-it实现的简易编辑器
+# 基于React和mark-it实现的简易编辑器
 
 最终还是选用了直接用现成的编译器，光是学习react就花了不少时间。
 
