@@ -11,6 +11,7 @@
 ### 预览界面
 
 参考博客[借助Github Page把你的React项目部署到线上环境](https://juejin.cn/post/6844903821995409422)将项目部署到了线上环境，所以可以直接使用。
+
 [Click Here!](https://caoxy7.github.io/tech-training-camp-frontend/)
 
 ### 技术栈
@@ -45,9 +46,9 @@
 
 参考的博客很多，很多东西都是直接根据别人的来的，而且编译器也没有自己实现，很多功能也存在着bug，感觉从完成项目作业的角度来说还挺失败的，不过还是有学到不少知识，也算是有点收获（希望不要当众处刑我就好2333）.
 
-[100行代码实现基于react的markdown输入+即时预览在线编辑器](https://blog.csdn.net/DeepLies/article/details/78909125):这篇博客教会了我如何实时输入markdown以及实现预览功能
-[原生JS控制多个滚动条同步跟随滚动](https://blog.csdn.net/deeplies/article/details/78854032):实现了同步滚动功能，改进成了适合react的代码
-[contenteditable 插入及粘贴纯文本内容](https://www.cnblogs.com/_error/p/8872996.html)：实现了在光标处插入文本的功能，根据这个功能实现了顶部工具栏。
+- [100行代码实现基于react的markdown输入+即时预览在线编辑器](https://blog.csdn.net/DeepLies/article/details/78909125):这篇博客教会了我如何实时输入markdown以及实现预览功能
+- [原生JS控制多个滚动条同步跟随滚动](https://blog.csdn.net/deeplies/article/details/78854032):实现了同步滚动功能，改进成了适合react的代码
+- [contenteditable 插入及粘贴纯文本内容](https://www.cnblogs.com/_error/p/8872996.html)：实现了在光标处插入文本的功能，根据这个功能实现了顶部工具栏。
 
 ### 个人总结
 
